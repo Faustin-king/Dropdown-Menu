@@ -93,3 +93,8 @@ body {
   padding: 0 2rem;
   background: coral;
 }
+
+#showcase h1 {
+  color: #fff;
+  font-size: 4rem;
+}
