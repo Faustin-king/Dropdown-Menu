@@ -37,9 +37,7 @@ body {
   background: coral;
   color: #fff;
 }
-#navbar ul li a:hover {
-  cursor: pointer;
-  background: coral;
+#navbar ul li:hover a {
   color: #fff;
 }
 
@@ -55,4 +53,8 @@ body {
 #navbar ul li:hover ul li {
   display: block;
   background: #e7e7e7;
+}
+
+#navbar ul li:hover ul li a {
+  color: #333;
 }
