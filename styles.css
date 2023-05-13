@@ -77,3 +77,7 @@ body {
 #navbar ul li:hover ul li:hover span {
   background: chocolate;
 }
+
+#navbar {
+  background: #333;
+}
