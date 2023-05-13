@@ -58,3 +58,8 @@ body {
 #navbar ul li:hover ul li a {
   color: #333;
 }
+
+#navbar ul li:hover ul li:hover {
+  background: #e0e0e0;
+  color: inherit;
+}
