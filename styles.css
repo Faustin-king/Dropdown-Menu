@@ -42,3 +42,12 @@ body {
   background: coral;
   color: #fff;
 }
+
+/* Nested dropdown Show */
+#navbar ul li:hover ul {
+  display: block;
+  position: absolute;
+  left: 0;
+  width: 200px;
+  margin-top: 1rem;
+}
