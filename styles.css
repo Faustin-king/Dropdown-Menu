@@ -31,3 +31,9 @@ body {
 #navbar ul li ul {
   display: none;
 }
+
+#navbar ul li:hover {
+  cursor: pointer;
+  background: coral;
+  color: #fff;
+}
