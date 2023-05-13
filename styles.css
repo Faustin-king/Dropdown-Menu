@@ -37,3 +37,8 @@ body {
   background: coral;
   color: #fff;
 }
+#navbar ul li a:hover {
+  cursor: pointer;
+  background: coral;
+  color: #fff;
+}
